@@ -1,0 +1,328 @@
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\appsettings.Development.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\appsettings.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.staticwebassets.endpoints.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.exe
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.deps.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.runtimeconfig.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.pdb
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\AutoMapper.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Azure.Core.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Azure.Identity.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Humanizer.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\MediatR.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.ClientModel.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.CodeDom.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.csproj.AssemblyReference.cache
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.AssemblyInfoInputs.cache
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.AssemblyInfo.cs
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.csproj.CoreCompileInputs.cache
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.MvcApplicationPartsAssemblyInfo.cs
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.MvcApplicationPartsAssemblyInfo.cache
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\scopedcss\bundle\BookFlow - Library Management System.styles.css
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\staticwebassets.build.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\staticwebassets.development.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\swae.build.ex.cache
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow.13DD8CB5.Up2Date
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\refint\BookFlow - Library Management System.dll
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.pdb
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.genruntimeconfig.cache
+E:\Source\repos\ASP.NET Core Web API\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\ref\BookFlow - Library Management System.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\appsettings.Development.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\appsettings.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.staticwebassets.endpoints.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.exe
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.deps.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.runtimeconfig.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\BookFlow - Library Management System.pdb
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\AutoMapper.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Azure.Core.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Azure.Identity.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Humanizer.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\MediatR.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.ClientModel.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.CodeDom.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.csproj.AssemblyReference.cache
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.AssemblyInfoInputs.cache
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.AssemblyInfo.cs
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.csproj.CoreCompileInputs.cache
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.MvcApplicationPartsAssemblyInfo.cs
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.MvcApplicationPartsAssemblyInfo.cache
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\scopedcss\bundle\BookFlow - Library Management System.styles.css
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\staticwebassets.build.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\staticwebassets.development.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\swae.build.ex.cache
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow.13DD8CB5.Up2Date
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\refint\BookFlow - Library Management System.dll
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.pdb
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\BookFlow - Library Management System.genruntimeconfig.cache
+E:\Source\repos\Full Stack .NET Developer\BookFlow - Library Management System\BookFlow - Library Management System\obj\Debug\net9.0\ref\BookFlow - Library Management System.dll
