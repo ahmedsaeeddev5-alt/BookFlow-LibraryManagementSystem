@@ -155,9 +155,25 @@ The system follows a **Clean Architecture + CQRS hybrid design**:
 
 ### 👤 My Borrowed Books
 
-
+---
 <p align="center">
   <img src="Screenshots/my-borrowed-books.png" width="900" alt="Borrow Book"/>
+</p>
+
+---
+
+### 📖 Borrow Book
+
+<p align="center">
+  <img src="Screenshots/borrow-book.png" alt="Borrow Book" width="900"/>
+</p>
+
+---
+
+### 🔄 Return Book
+
+<p align="center">
+  <img src="Screenshots/return-book.png" alt="Return Book" width="900"/>
 </p>
 
 ---
